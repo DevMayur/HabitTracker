@@ -1,0 +1,17 @@
+/* src/components/Habit.css */
+.card {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+.remove-button {
+    margin-top: 10px;
+}
+
+.remove-button:hover {
+    cursor: pointer;
+}
